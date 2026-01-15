@@ -1,0 +1,1 @@
+I created my first project mobile application. Helps me to know how I can create, delete, reset the project mobile app.
